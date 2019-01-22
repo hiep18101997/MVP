@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVP</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="error">Bạn chưa điền đủ thông tin</string>
+    <string name="success">Đăng nhập thành công</string>
+</resources>
